@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mobdev Compilation</string>
+    <string name="Layout_Exercise">Layout Exercise</string>
+    <string name="Button_Exercise">Button Exercise</string>
+    <string name="Calculator">Calculator</string>
+    <string name="Midterm">Midterm</string>
+    <string name="Match_3">Match 3</string>
+    <string name="Intents">Passing Intents</string>
+    <string name="Fragments">Fragments</string>
+    <string name="Menus">Menus</string>
+
+    <string name="intentTitle">Student Registration Form</string>
+    <string name="enterName">Complete Name</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+
+    <string name="bday">Birth date</string>
+    <string name="phonenum">Phone number</string>
+    <string name="email">Email address</string>
+
+    <string name="emergencyA">In case of emergency contact</string>
+    <string name="emergencyB">Name of emergency contact</string>
+    <string name="Address">Address</string>
+    <string name="program">Program</string>
+    <string name="year">Year level</string>
+
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
