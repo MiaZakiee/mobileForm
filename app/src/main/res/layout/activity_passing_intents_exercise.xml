@@ -82,7 +82,7 @@
                     android:text="@string/male" />
 
                 <RadioButton
-                    android:id="@+id/gendeF"
+                    android:id="@+id/genderF"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
                     android:text="@string/female" />

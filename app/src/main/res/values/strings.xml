@@ -31,5 +31,15 @@
     <string name="clear">Clear</string>
     <string name="submit">Submit</string>
 
-
+    <string name="studentProfile">Student Profile</string>
+    <string name="dfname">First Name:</string>
+    <string name="dlname">Last Name:</string>
+    <string name="dgender">Gender:</string>
+    <string name="dbday">Birth date:</string>
+    <string name="demail">Email address:</string>
+    <string name="decontact">Emergency Contact:</string>
+    <string name="deperson">Emergy Person:</string>
+    <string name="dprogram">Program:</string>
+    <string name="dyear">Year level:</string>
+    <string name="title_activity_menu_exercise">MenuExercise</string>
 </resources>

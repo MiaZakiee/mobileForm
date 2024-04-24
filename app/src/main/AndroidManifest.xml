@@ -12,6 +12,11 @@
         android:theme="@style/Theme.Mobdev_Compilation"
         tools:targetApi="31">
         <activity
+            android:name=".MenuExercise"
+            android:exported="false"
+            android:label="@string/title_activity_menu_exercise"
+            android:theme="@style/Theme.Mobdev_Compilation" />
+        <activity
             android:name=".PassingIntentsExcercise2"
             android:exported="false" />
         <activity
